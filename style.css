@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, h3, h4, h5 {
+    color: #343a40;
+}
+
+a {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+ul {
+    padding-left: 1.2rem;
+}
